@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lerp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b5b1c94ff583656aaddc446e128dbb01ebcdf99")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lerp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lerp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

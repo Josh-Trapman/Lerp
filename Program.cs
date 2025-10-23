@@ -1,4 +1,5 @@
 using System;
+using System.Net;
 using SplashKitSDK;
 
 namespace Lerp
@@ -8,7 +9,7 @@ namespace Lerp
         public static void Main()
         {
             Window window = new("Lerp", 700, 700);
-            Player player = new();
+            Player player = new(IPAddress.Parse("192.168.1.24"), 0);
 
             SplashKitSDK.Timer delta = new("delta");
             delta.Start();

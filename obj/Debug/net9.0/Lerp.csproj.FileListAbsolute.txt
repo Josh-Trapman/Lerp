@@ -12,3 +12,4 @@ C:\msys64\home\Josh\Lerp\obj\Debug\net9.0\refint\Lerp.dll
 C:\msys64\home\Josh\Lerp\obj\Debug\net9.0\Lerp.pdb
 C:\msys64\home\Josh\Lerp\obj\Debug\net9.0\Lerp.genruntimeconfig.cache
 C:\msys64\home\Josh\Lerp\obj\Debug\net9.0\ref\Lerp.dll
+C:\msys64\home\Josh\Lerp\obj\Debug\net9.0\Lerp.sourcelink.json
