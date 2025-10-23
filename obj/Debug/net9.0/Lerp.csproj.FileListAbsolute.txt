@@ -1,0 +1,14 @@
+C:\msys64\home\Josh\Lerp\bin\Debug\net9.0\Lerp.exe
+C:\msys64\home\Josh\Lerp\bin\Debug\net9.0\Lerp.deps.json
+C:\msys64\home\Josh\Lerp\bin\Debug\net9.0\Lerp.runtimeconfig.json
+C:\msys64\home\Josh\Lerp\bin\Debug\net9.0\Lerp.dll
+C:\msys64\home\Josh\Lerp\bin\Debug\net9.0\Lerp.pdb
+C:\msys64\home\Josh\Lerp\obj\Debug\net9.0\Lerp.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\Josh\Lerp\obj\Debug\net9.0\Lerp.AssemblyInfoInputs.cache
+C:\msys64\home\Josh\Lerp\obj\Debug\net9.0\Lerp.AssemblyInfo.cs
+C:\msys64\home\Josh\Lerp\obj\Debug\net9.0\Lerp.csproj.CoreCompileInputs.cache
+C:\msys64\home\Josh\Lerp\obj\Debug\net9.0\Lerp.dll
+C:\msys64\home\Josh\Lerp\obj\Debug\net9.0\refint\Lerp.dll
+C:\msys64\home\Josh\Lerp\obj\Debug\net9.0\Lerp.pdb
+C:\msys64\home\Josh\Lerp\obj\Debug\net9.0\Lerp.genruntimeconfig.cache
+C:\msys64\home\Josh\Lerp\obj\Debug\net9.0\ref\Lerp.dll
